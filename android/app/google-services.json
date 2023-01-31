@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "727409822589",
+    "project_id": "lahorebazar-bebb9",
+    "storage_bucket": "lahorebazar-bebb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727409822589:android:860f175d6aca52b02a1a14",
+        "android_client_info": {
+          "package_name": "com.LahoreBazar.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727409822589-ngo73akcvaa4l7q1q01cldfvupnb11c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY2oFm6ew5Qdw9ppY4L_yDxC44J0Ml78w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727409822589-ngo73akcvaa4l7q1q01cldfvupnb11c0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
